@@ -1,0 +1,9 @@
+#DEVI
+integer score = 75
+string result
+result = (score >= 60) ? {
+    "Pass" 
+} : {
+    "Fail" 
+}
+#

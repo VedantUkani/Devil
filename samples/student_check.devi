@@ -1,0 +1,9 @@
+#DEVI
+string name = "John"
+boolean isStudent = true
+if (isStudent == true) {
+    print #name#
+} else {
+    print # "Not a student" #
+} endif
+#

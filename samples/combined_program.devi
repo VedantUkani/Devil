@@ -1,0 +1,28 @@
+#DEVI
+integer x = 10
+float y = 20.5
+string z = "Hello, World!"
+
+print # "Initial values: " #
+
+if (x < y) {
+    print # "x is less than y" #
+} else {
+    print # "x is not less than y" #
+} endif
+
+for (integer i = 0 # i < 5 # i = i + 1) {
+    print # "Loop iteration: " #
+    print # i #
+} endfor
+
+boolean check = (true) ? {x} : {y}
+
+while (x > 0) {
+    print # "x is " #
+    print # x #
+    x = x - 1
+} endwhile
+
+print # "End of program" #
+#

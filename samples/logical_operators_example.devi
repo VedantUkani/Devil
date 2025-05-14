@@ -1,0 +1,15 @@
+#DEVI
+if(5 < 10 and 5 > 3){
+    print#" AND condition is true"#
+}
+else{
+    print#"AND condition is false"#
+}endif
+
+if(5 > 10 or 5 > 3){
+    print#"OR condition is true"#
+}
+else{
+    print#"OR condition is false"#
+}endif
+#

@@ -1,0 +1,7 @@
+#DEVI
+float a = 10.5
+float b = 2.5
+float c = 3.0
+float result = a + b * c
+print # result #
+#

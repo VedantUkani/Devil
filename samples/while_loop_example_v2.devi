@@ -1,0 +1,12 @@
+#DEVI
+integer x = 1
+integer y = 10
+while (x <= 3) {
+    if (x < y) {
+        print # x #
+    } else {
+        print # y #
+    } endif
+    x = x + 1
+} endwhile
+#

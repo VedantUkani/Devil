@@ -1,0 +1,6 @@
+#DEVI
+integer x = 10
+integer y = 5
+print #x + y#
+print #x * y#
+#
